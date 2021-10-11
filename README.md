@@ -1,4 +1,4 @@
-# hackintosh-lenovo-m93p-sff-bigsur
+# hackintosh-lenovo-m93p-sff-bigsur-and-monterey
 
 ## Please update config.plist file before using the EFI.
 > File Location -> EFI/OC/config.plist
