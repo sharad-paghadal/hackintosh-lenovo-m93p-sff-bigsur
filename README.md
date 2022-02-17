@@ -6,3 +6,6 @@
 1. PlatformInfo > Generic > MLB
 2. PlatformInfo > Generic > SystemSerialNumber
 3. PlatformInfo > Generic > SystemUUID
+
+
+GenSMBIOS -> https://github.com/corpnewt/GenSMBIOS
